@@ -1,0 +1,58 @@
+##
+
+#7 Minute Workout
+#
+#7_Minute_Workout.apk
+#7_Minute_Workout.png
+
+##
+
+#10,000 health tips
+#
+#10,000_health_tips.apk
+#10,000_health_tips.png
+
+##
+
+#30 Day Fitness Challenge
+#
+#30_Day_Fitness_Challenge.apk
+#30_Day_Fitness_Challenge.png
+
+##
+
+#Beauty Tip
+#
+#Beauty_Tip.apk
+#Beauty_Tip.png
+
+##
+
+#Clothing style
+#
+#Clothing_style.apk
+#Clothing_style.png
+
+##
+
+#Recipes
+#
+#Recipes.apk
+#Recipes.png
+
+##
+
+#Daily Horoscope
+#
+#Daily_Horoscope.apk
+#Daily_Horoscope.png
+
+
+##
+
+#Earn money
+#
+#Earn_money.apk
+#Earn_money.png
+
+##

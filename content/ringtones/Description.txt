@@ -1,0 +1,92 @@
+##
+
+#Android lolipop triton
+#
+#Android_lolipop_triton.mp3
+#Android_lolipop_triton.jpg
+
+##
+
+#Android new
+#
+#Android_new.mp3
+#Android_new.jpg
+
+##
+
+#Apple crystals
+#
+#Apple_crystals.mp3
+#Apple_crystals.jpg
+
+##
+
+#HTC 2013 android
+#
+#HTC_2013_android.mp3
+#HTC_2013_android.jpg
+
+##
+
+#HTC ringtone
+#
+#HTC_ringtone.mp3
+#HTC_ringtone.jpg
+
+##
+
+#HTC ringtone nice
+#
+#HTC_ringtone_nice.mp3
+#HTC_ringtone_nice.jpg
+
+##
+
+#iPhone 5 original ringtone
+#
+#iPhone_5_original_ringtone.mp3
+#iPhone_5_original_ringtone.jpg
+
+##
+
+#iPhone new
+#
+#iPhone_new.mp3
+#iPhone_new.jpg
+
+##
+
+#iPhone sound
+#
+#iPhone_sound.mp3
+#iPhone_sound.jpg
+
+##
+
+#Lenovo sound
+#
+#Lenovo_sound.mp3
+#Lenovo_sound.jpg
+
+##
+
+#Samsung Galaxy Note
+#
+#Samsung_Galaxy_Note.mp3
+#Samsung_Galaxy_Note.jpg
+
+##
+
+#Sony Breeze
+#
+#Sony_Breeze.mp3
+#Sony_Breeze.jpg
+
+##
+
+#Sony Xperia
+#
+#Sony_Xperia.mp3
+#Sony_Xperia.jpg
+
+##
